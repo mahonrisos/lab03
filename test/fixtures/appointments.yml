@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  begin_time: 2011-02-07
+  end_time: 2011-02-07
+  medic_id: 1
+  patient_id: 1
+
+two:
+  begin_time: 2011-02-07
+  end_time: 2011-02-07
+  medic_id: 1
+  patient_id: 1
